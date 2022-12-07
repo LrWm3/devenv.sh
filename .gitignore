@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.envrc
+!devenv.nix
+!devenv.yaml
+!devenv.lock
+devenv.local.nix
